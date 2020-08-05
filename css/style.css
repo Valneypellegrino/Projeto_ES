@@ -1,0 +1,89 @@
+body {
+    font: 20px Arial, sams-serif;
+    background: rgba(235, 231, 230, 0.897);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header {
+margin-top: 10px;
+}
+
+h1 {
+    color: darkblue;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+h3 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+.navbar {
+    background-color: turquoise;
+}
+.História {
+    background-color: yellowgreen;
+}
+.Municípios {
+    background-color: wheat;
+}
+.População {
+    background-color: darkgray;
+}
+.densidade-demográfica {
+    background-color: blanchedalmond;
+}
+
+.Economia {
+    background-color: darkseagreen;
+}
+.Educação {
+background-color: cadetblue;
+}
+
+.Cultura {
+background-color: chartreuse;
+}
+
+.Turísmo {
+background-color: cyan;
+}
+
+.Ilhas {
+background-color: rgb(243, 229, 31);
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.bg-footer {
+    background-color: blue;
+    color: white;
+    height: 50%;
+    background-size: 50;
+}
+footer {
+    margin-bottom: 5px;
+}
+
+.img_padrao {
+    margin-bottom: 30px;
+    width: 300px;
+    height: 300px;
+}
+
+.logo {
+    width: 30px;
+}
+
