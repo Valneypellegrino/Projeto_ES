@@ -1,24 +1,27 @@
 body {
     font: 15px Arial, sams-serif;
-    background: white);
-    margin-left: 10px;
-    margin-right: 10px;
+    background: white;
+    margin-left: 5px;
+    margin-right: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
 
 header {
-margin-top: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
 }
 
 h1 {
     color: darkblue;
     font-family: fantasy;
-    margin-top: 5px;
+    margin-top: 1px;
+    margin-bottom: 1px;
 }
 
 h2 {
     font-family: fantasy;
+    margin-top: 1px;
 }
 
 h3 {
