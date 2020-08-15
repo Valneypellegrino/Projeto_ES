@@ -1,5 +1,5 @@
 body {
-    font: 15px Arial, sams-serif;
+    font: 16px Arial, sams-serif;
     background: white;
     margin-left: 5px;
     margin-right: 5px;
@@ -78,12 +78,12 @@ background-color: ;
 }
 
 .margin {
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 .bg-footer {
     background-color: ;
-    color: white;
+    color: black;
     height: 50%;
     background-size: 50%;
 }
